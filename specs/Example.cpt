@@ -1,0 +1,17 @@
+Created by SEHER on 13.06.2021
+
+This is a concept file with following syntax for each concept.
+# Üye Girişi butonuna bas
+//conceptlerde senaryoları toparlayabiliyoruz
+* 3 sn kadar bekle
+* "div[class='login']>a" Css li elemente tıkla
+
+# Kullanıcı Adı alanına <username> bilgisini yaz
+* "input[id='top-user-username']" Css li elemente <username> değerini yaz
+
+# Kullanıcı şifresi alanına <password> bilgisini yaz
+* "input[id='top-user-password']" Css li elemente <password> değerini yaz
+
+# Giriş yap butonuna tıkla
+* "btn-ih-giris" id li elemente tıkla
+* 3 sn kadar bekle
